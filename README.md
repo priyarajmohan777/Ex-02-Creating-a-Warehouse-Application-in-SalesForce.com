@@ -16,7 +16,8 @@ In Salesforce we can create, manage and customise both applications according to
 ## PROCEDURE
 
 ### Step 1: Log into your developer
-![Ex2-1](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/93b506fe-5542-4036-a344-939cbe7e67f3)
+![image](https://github.com/priyarajmohan777/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/119475942/05eb2496-82d0-4103-8d6c-62a734e5f986)
+
 
 ### Step 2: Click the Setup Link (upper-right corner).
  ![ex2-2](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/183746f5-0293-4cd4-bece-09eb8b7ed11e)
